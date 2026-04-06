@@ -30,7 +30,7 @@
 
 
 $ClientID     = "bd6b5575-4fde-4a4a-9cd3-37b4eb9e5438"
-$ClientSecret = "o7P8Q~ILQIgGanGmGnzdf3RecRAReTnM_v9T9duM"
+$ClientSecret = "SECRET"
 $TenantID     = "c8b9f88a-afab-4e3c-a57d-0c1506b66757"
 $Resource     = "https://graph.microsoft.com" 
 
